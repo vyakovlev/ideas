@@ -1,4 +1,4 @@
-# ideas
-Misc ideas, that got my attention.
+# What can I give to you?
+This project consists of ideas and code, that I find useful.
 
-Testing new changes, applying some thoughts, etc.
+Nothing serious, nothing really difficult. Each script solves its particular task. That's it, folks.
