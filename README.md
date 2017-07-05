@@ -1,4 +1,8 @@
-# What can I give to you?
-This project consists of ideas and code, that I find useful.
+# What is here?
+I'd trying to put my thoughts here. These are scripts/ideas, that I found useful.
 
-Nothing serious, nothing really difficult. Each script solves its particular task. That's it, folks.
+Will be updated from time to time.
+
+# Anything ready now?
+
+Yes - check [Ya.Translator for Alfred](https://github.com/vyakovlev/alfred-ya.translator)
